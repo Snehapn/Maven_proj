@@ -2,7 +2,7 @@ package new_proj.Maven_proj;
 
 import org.testng.annotations.Test;
 
-public class AppiumTest {
+public class AppiumTest {  
 
 	@Test
 	public void nativeAppAndroid() {
